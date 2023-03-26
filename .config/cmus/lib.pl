@@ -9,7 +9,6 @@
 /home/aeon/Music/songs/3TEETH - You Spin Me Round (Like a Record).mp3
 /home/aeon/Music/songs/7ru7h - Voices in My Head.mp3
 /home/aeon/Music/songs/8corpses, Mvko - Spears.mp3
-/home/aeon/Music/songs/btcu.mp3
 /home/aeon/Music/songs/ABBA - Lay All Your Love On Me.mp3
 /home/aeon/Music/songs/AK - Closed Off.mp3
 /home/aeon/Music/songs/Amni Six - Lost.mp3
